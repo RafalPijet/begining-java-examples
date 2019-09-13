@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/TESTS.iml" filepath="$PROJECT_DIR$/TESTS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/atm/atm.iml" filepath="$PROJECT_DIR$/atm/atm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/average/average.iml" filepath="$PROJECT_DIR$/average/average.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bank-transaction/bank-transaction.iml" filepath="$PROJECT_DIR$/bank-transaction/bank-transaction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/brave-knight/brave-knight.iml" filepath="$PROJECT_DIR$/brave-knight/brave-knight.iml" />
+      <module fileurl="file://$PROJECT_DIR$/employee-salary/employee-salary.iml" filepath="$PROJECT_DIR$/employee-salary/employee-salary.iml" />
+    </modules>
+  </component>
+</project>
