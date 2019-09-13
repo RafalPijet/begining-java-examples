@@ -8,6 +8,8 @@
       <module fileurl="file://$PROJECT_DIR$/bank-transaction/bank-transaction.iml" filepath="$PROJECT_DIR$/bank-transaction/bank-transaction.iml" />
       <module fileurl="file://$PROJECT_DIR$/brave-knight/brave-knight.iml" filepath="$PROJECT_DIR$/brave-knight/brave-knight.iml" />
       <module fileurl="file://$PROJECT_DIR$/employee-salary/employee-salary.iml" filepath="$PROJECT_DIR$/employee-salary/employee-salary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/student-data/student-data.iml" filepath="$PROJECT_DIR$/student-data/student-data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/students-average/students-average.iml" filepath="$PROJECT_DIR$/students-average/students-average.iml" />
     </modules>
   </component>
 </project>
